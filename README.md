@@ -8,7 +8,7 @@ This is a simple Java Swing project that generates and displays the Sierpinski t
 
 ## Running The Program (Double Click Alternative)
 
-Download SierpinskiTriangle.jar from this repository. <br/>
+Download SierpinskiTriangle.jar from this repository's releases. <br/>
 Make sure you have Java installed. To check, open terminal and type "java -version".<br/>
 ```bash
 java -version
