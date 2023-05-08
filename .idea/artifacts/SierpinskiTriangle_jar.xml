@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SierpinskiTriangle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SierpinskiTriangle_jar</output-path>
+    <root id="archive" name="SierpinskiTriangle.jar">
+      <element id="module-output" name="SierpinskiTriangle" />
+    </root>
+  </artifact>
+</component>
