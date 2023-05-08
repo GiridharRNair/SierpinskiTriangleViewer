@@ -3,7 +3,7 @@
 This is a simple Java Swing project that generates and displays the Sierpinski triangle. The Sierpinski triangle is a fractal named after the Polish mathematician Wacław Sierpiński. It is formed by recursively subdividing an equilateral triangle into smaller equilateral triangles.
 
 ## Preview
-![ScreenshotGUI.png](Public%2FScreenshotGUI.png)
+![ScreenshotGUI.png width=100](Public%2FScreenshotGUI.png)
 
 ## Running The Program (Double Click Alternative)
 
